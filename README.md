@@ -44,6 +44,15 @@ tsx
 
 
 
+✅ Testing Checklist
+ Firebase Google Sign-In works
+
+ Firebase Hosting is live and accessible
+
+ WebView loads the hosted web app after login
+
+ App works in Expo Go (no Android Studio needed)
+
 
  
 📝 Notes
