@@ -45,19 +45,21 @@ tsx
 
 
 ✅ Testing Checklist
- Firebase Google Sign-In works
 
- Firebase Hosting is live and accessible
+ --Firebase Google Sign-In works
 
- WebView loads the hosted web app after login
+ --Firebase Hosting is live and accessible
 
- App works in Expo Go (no Android Studio needed)
+ --WebView loads the hosted web app after login
+
+ --App works in Expo Go (no Android Studio needed)
 
 
  
 📝 Notes
-No need to install Android Studio — just use Expo Go on your phone.
+ 
+ # No need to install Android Studio — just use Expo Go on your phone.
 
-Make sure your web app is deployed via Firebase Hosting.
+ # Make sure your web app is deployed via Firebase Hosting.
 
-This setup is perfect for hybrid apps (native + web).
+ # This setup is perfect for hybrid apps (native + web).
