@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297613985794",
+    "project_id": "nextjs-webapp-28433",
+    "storage_bucket": "nextjs-webapp-28433.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297613985794:android:3e54e493224b72ef547f1b",
+        "android_client_info": {
+          "package_name": "com.myfirstapp.siginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297613985794-590gh9eedguarmoctu4fbfsbtle71u9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP7vcfMXDCuaLykNBjGnfD9XUrqSz-REo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297613985794-590gh9eedguarmoctu4fbfsbtle71u9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
